@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 language: node_js
 node_js: 10
 script: npm run test
 notifications:
   email: false
+=======
+language: node_js
+node_js: 10
+script: npm run test
+notifications:
+  email: false
+>>>>>>> c762a8a5f6f79ab8f7da64c2e1dd6a3b648e3849

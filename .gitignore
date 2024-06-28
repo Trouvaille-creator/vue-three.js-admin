@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules/
 dist/
@@ -21,3 +22,28 @@ selenium-debug.log
 
 package-lock.json
 yarn.lock
+=======
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/*.log
+
+tests/**/coverage/
+tests/e2e/reports
+selenium-debug.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
+yarn.lock
+>>>>>>> c762a8a5f6f79ab8f7da64c2e1dd6a3b648e3849
